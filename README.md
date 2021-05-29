@@ -31,9 +31,9 @@
 <img height="30" src="https://user-images.githubusercontent.com/41782385/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif">
 </p>
 
-🚧 **My Todoist Stats:**
+🚧 **My Todo list:**
 <!-- TODO-IST:START -->
-- ✅🏆  Complete the 100DaysofCode challenge!      
+- 🏆  Complete the 100DaysofCode challenge!      
 - 🥅  Learning full stack web development.
 <!-- TODO-IST:END -->
 
