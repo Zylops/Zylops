@@ -11,8 +11,6 @@
 <br>
 
  I am Zylops, a student. I like making stuff in python! Hobbyist Game Developer 🎮, Really bad Discord Bot Dev, and okayish pythonista 🐍. This README.md file was originally designed by @AtulACleaver
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height= 400px/>
   
 **Talking about Personal Stuff:**
 
