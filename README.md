@@ -10,14 +10,13 @@
 <br>
 <br>
 
- I am Zylops and I am a student. I like making stuff instead of sitting through a boring tutorial doing nothing. Hobbyist Game Developer 🎮, Discord Bot Dev 🤖, Minecraft Server Plugin Dev ⛏, and pythonista 🐍. This README.md file was originally designed by @AtulACleaver
+ I am Zylops, a student. I like making stuff in python! Hobbyist Game Developer 🎮, Really bad Discord Bot Dev, and okayish pythonista 🐍. This README.md file was originally designed by @AtulACleaver
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height= 400px/>
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on making my own website and other small fun projects;
-- 🌱 I’m currently learning Python & Web Development; 
+- 👨🏽‍💻 I’m currently working on making my own website and other small fun projects; 
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: <a href="mailto:zainaazeez787@gmail.com">mail Me</a>, or add me on discord (Zylops#3228).
 
@@ -34,7 +33,7 @@
 🚧 **My Todo list:**
 <!-- TODO-IST:START -->
 - 🏆  Complete the 100DaysofCode challenge!      
-- 🥅  Learning full stack web development.
+- ~~🥅  Learning full stack web development.~~ Done!
 <!-- TODO-IST:END -->
 
 
