@@ -3,12 +3,10 @@
 
 I write words on a computer and shit happens.
 ## 🚀 About Me
-I'm a student. Love making random stuff on the internet for the heck of it.
+I make internet shit on internet 💯💯
 ## 🛠 Skills
-
-- Web Development, specifically with the svelte framework 🧡
-- Pretty experienced with python 🐍
-- Average godot enjoyer 🎮
+- Web Development, both frontend (Svelte, working on learning React), and backend with Flask & PHP
+- Thats literally it i gotta learn more stuff istg 😭😭
 ## 🧰 Tools
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
